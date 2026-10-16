@@ -1,0 +1,21 @@
+{
+  "retrieved_date": "2026-10-16",
+  "facilities_in_mart": 4658,
+  "op18a_reporting_hospitals": 4052,
+  "op18a_reporting_pct": 87.0,
+  "hospital_median_minutes": 154.0,
+  "cms_national_op18a_minutes": 168.0,
+  "hospital_median_95ci": [
+    152.0,
+    156.0
+  ],
+  "hospital_iqr_minutes": [
+    125.0,
+    194.2
+  ],
+  "priority_review_hospitals": 640,
+  "psychiatric_reporting_hospitals": 3023,
+  "psychiatric_reporting_pct": 64.9,
+  "kruskal_volume_statistic": 1494.182,
+  "kruskal_volume_pvalue": 0.0
+}

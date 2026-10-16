@@ -1,0 +1,6 @@
+measure_id,measure_name,_condition,category,score,footnote,start_date,end_date
+OP_18a,"Average (median) time all patients spent in the emergency department before leaving from the visit, including psychiatric/mental health patients and patients who were transferred to another facility. A lower number of minutes is better",Emergency Department,OP-18,168,,10/01/2024,09/30/2025
+OP_18b,"Average (median) time patients spent in the emergency department before leaving from the visit, excluding patients transferred to another facility or psychiatric care/mental health patients. A lower number of minutes is better",Emergency Department,OP-18,162,"25, 26",10/01/2024,09/30/2025
+OP_18c,Average (median) time psychiatric/mental health patients spent in the emergency department before leaving from the visit. A lower number of minutes is better,Emergency Department,OP-18,257,25,10/01/2024,09/30/2025
+OP_18d,Average (median) time patients spent in the emergency department before being transferred to another facility. A lower number of minutes is better,Emergency Department,OP-18,287,,10/01/2024,09/30/2025
+OP_22,Percentage of patients who left the emergency department before being seen Lower percentages are better,Emergency Department,Left before being seen,2,"25, 26",01/01/2024,12/31/2024

@@ -1,0 +1,6 @@
+measure,hospitals_reporting,reporting_pct_of_ed_facilities
+All patients (OP_18a),4052,86.99012451696007
+Treat-and-release (OP_18b),4081,87.61270931730357
+Psychiatric patients (OP_18c),3023,64.89909832546157
+Transfers (OP_18d),2364,50.751395448690424
+Left before seen (OP_22),3821,82.03091455560326

@@ -1,0 +1,8 @@
+check_name,result
+ed_long_rows,27948
+unique_facility_measure,27948
+duplicate_facility_measure,0
+ed_analytic_rows,4658
+missing_hospital_join,0
+invalid_negative_minutes,0
+invalid_lwbs_percent,0

@@ -1,0 +1,11 @@
+hospital_ownership,hospitals,median_minutes,q25,q75
+Voluntary non-profit - Private,2014,164.5,130.0,204.0
+Proprietary,599,147.0,126.0,177.5
+Government - Hospital District or Authority,469,136.0,114.0,173.0
+Government - Local,326,136.0,115.0,164.0
+Voluntary non-profit - Other,300,158.5,129.0,201.25
+Voluntary non-profit - Church,246,162.0,135.25,205.0
+Government - State,47,192.0,132.0,235.0
+Physician,33,140.0,116.0,162.0
+Government - Federal,15,133.0,99.0,172.0
+Tribal,3,100.0,99.5,129.0

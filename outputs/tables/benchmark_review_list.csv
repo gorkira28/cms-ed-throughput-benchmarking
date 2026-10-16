@@ -1,0 +1,641 @@
+facility_id,facility_name,state,hospital_type,hospital_ownership,emergency_services,overall_rating,ed_volume,all_patient_ed_minutes,treat_release_ed_minutes,psychiatric_ed_minutes,transfer_ed_minutes,left_before_seen_pct,minutes_above_hospital_median
+400114,MANATI MEDICAL CENTER DR OTERO LOPEZ,PR,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,medium,422.0,381.0,581.0,536.0,1.0,268.0
+050327,LOMA LINDA UNIVERSITY MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,410.0,413.0,402.0,,6.0,256.0
+450213,UNIVERSITY HEALTH SYSTEM,TX,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,very high,384.0,366.0,447.0,,2.0,230.0
+090011,MEDSTAR WASHINGTON HOSPITAL CENTER,DC,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,very high,377.0,377.0,414.0,,5.0,223.0
+190005,UNIVERSITY MEDICAL CENTER NEW ORLEANS,LA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,373.0,327.0,864.0,,3.0,219.0
+450289,HARRIS HEALTH,TX,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,very high,370.0,367.0,596.0,,3.0,216.0
+140119,RUSH UNIVERSITY MEDICAL CENTER,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,369.0,370.0,355.0,,9.0,215.0
+210015,MEDSTAR FRANKLIN SQUARE MEDICAL CENTER,MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,367.0,367.0,332.0,,1.0,213.0
+210062,MEDSTAR SOUTHERN MARYLAND HOSPITAL CENTER,MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,366.0,356.0,372.0,686.0,4.0,212.0
+090004,MEDSTAR GEORGETOWN UNIVERSITY HOSPITAL,DC,Acute Care Hospitals,Proprietary,Yes,3,high,362.0,365.0,344.0,,10.0,208.0
+050625,CEDARS-SINAI MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Other,Yes,5,very high,361.0,355.0,380.0,,9.0,207.0
+140281,NORTHWESTERN MEMORIAL HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,354.0,350.0,422.0,,10.0,200.0
+090001,GEORGE WASHINGTON UNIV HOSPITAL,DC,Acute Care Hospitals,Proprietary,Yes,2,high,350.0,345.0,377.0,,12.0,196.0
+400132,DOCTORS CENTER HOSPITAL  CAROLINA LLC,PR,Acute Care Hospitals,Proprietary,Yes,,not available,350.0,347.0,,,,196.0
+210029,JOHNS HOPKINS BAYVIEW MEDICAL CENTER,MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,349.0,322.0,848.0,,3.0,195.0
+330057,ST PETER'S HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,346.0,341.0,389.0,,7.0,192.0
+230046,UNIVERSITY OF MICHIGAN HEALTH SYSTEM,MI,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,342.0,345.0,356.0,,3.0,188.0
+110079,GRADY MEMORIAL HOSPITAL,GA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,336.0,357.0,241.0,,2.0,182.0
+220086,BETH ISRAEL DEACONESS MEDICAL CENTER,MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,336.0,336.0,314.0,,2.0,182.0
+050376,LAC/HARBOR-UCLA MED CENTER,CA,Acute Care Hospitals,Government - Local,Yes,1,very high,335.0,313.0,654.0,,3.0,181.0
+260105,SSM HEALTH SAINT LOUIS UNIVERSITY HOSPITAL,MO,Acute Care Hospitals,Voluntary non-profit - Church,Yes,1,high,335.0,335.0,310.0,,5.0,181.0
+390180,CROZER CHESTER MEDICAL CENTER,PA,Acute Care Hospitals,Voluntary non-profit - Other,Yes,1,high,333.0,331.0,,,2.0,179.0
+050262,RONALD REAGAN UCLA MEDICAL CENTER,CA,Acute Care Hospitals,Government - State,Yes,4,high,332.0,312.0,541.0,,5.0,178.0
+110007,PHOEBE PUTNEY MEMORIAL HOSPITAL,GA,Acute Care Hospitals,Government - Hospital District or Authority,Yes,2,very high,331.0,330.0,375.0,,1.0,177.0
+050599,UNIVERSITY OF CALIFORNIA DAVIS MEDICAL CENTER,CA,Acute Care Hospitals,Government - Hospital District or Authority,Yes,4,very high,330.0,328.0,344.0,,3.0,176.0
+400137,DOCTORS CENTER HOSPITAL ORLANDO HEALTH DORADO,PR,Acute Care Hospitals,Proprietary,Yes,2,medium,330.0,328.0,,,2.0,176.0
+050315,KERN MEDICAL CENTER,CA,Acute Care Hospitals,Government - Hospital District or Authority,Yes,1,high,329.0,306.0,533.0,,11.0,175.0
+050040,LAC/OLIVE VIEW-UCLA MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Other,Yes,2,very high,328.0,320.0,434.0,783.0,4.0,174.0
+050348,UCI HEALTH-ORANGE,CA,Acute Care Hospitals,Government - Local,Yes,4,very high,328.0,318.0,928.0,,2.0,174.0
+330399,ST BARNABAS HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,very high,326.0,301.0,495.0,,8.0,172.0
+390223,PENN PRESBYTERIAN MEDICAL CENTER,PA,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4,high,326.0,326.0,256.0,,5.0,172.0
+050776,COLLEGE MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,Yes,3,low,324.0,322.0,317.0,,9.0,170.0
+330219,ERIE COUNTY MEDICAL CENTER,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,medium,322.0,325.0,320.0,,8.0,168.0
+360085,OHIO STATE UNIVERSITY STATE HEALTH SYSTEM,OH,Acute Care Hospitals,Government - State,Yes,3,very high,322.0,317.0,546.0,,6.0,168.0
+090005,SIBLEY MEMORIAL HOSPITAL,DC,Acute Care Hospitals,Voluntary non-profit - Other,Yes,5,high,321.0,310.0,865.0,,2.0,167.0
+390115,JEFFERSON HEALTH- NORTHEAST,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,320.0,316.0,,,5.0,166.0
+210004,HOLY CROSS HOSPITAL,MD,Acute Care Hospitals,Voluntary non-profit - Church,No,2,very high,319.0,314.0,440.0,,5.0,165.0
+340030,DUKE UNIVERSITY HOSPITAL,NC,Acute Care Hospitals,Proprietary,Yes,5,very high,318.0,317.0,417.0,,5.0,164.0
+210009,"JOHNS HOPKINS HOSPITAL, THE",MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,317.0,308.0,538.0,,6.0,163.0
+110010,EMORY UNIVERSITY HOSPITAL,GA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,316.0,316.0,259.0,,2.0,162.0
+230047,HENRY FORD MACOMB HOSPITAL,MI,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,316.0,306.0,544.0,,5.0,162.0
+310119,THE UNIVERSITY HOSPITAL,NJ,Acute Care Hospitals,Government - State,Yes,1,very high,316.0,307.0,794.0,,8.0,162.0
+030064,BANNER - UNIVERSITY MEDICAL CENTER TUCSON CAMPUS,AZ,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,314.0,311.0,584.0,,6.0,160.0
+140088,THE UNIVERSITY OF CHICAGO MEDICAL CENTER,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,314.0,295.0,714.0,,12.0,160.0
+500064,HARBORVIEW MEDICAL CENTER,WA,Acute Care Hospitals,Government - Local,Yes,2,very high,312.0,299.0,425.0,,7.0,158.0
+170040,UNIVERSITY OF KANSAS HOSPITAL,KS,Acute Care Hospitals,Government - Hospital District or Authority,Yes,5,very high,311.0,307.0,358.0,,4.0,157.0
+140150,UNIVERSITY OF ILLINOIS HOSPITAL AND CLINICS,IL,Acute Care Hospitals,Government - State,Yes,4,high,308.0,298.0,684.0,,4.0,154.0
+330222,SARATOGA HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,307.0,296.0,579.0,316.0,5.0,153.0
+220077,BAYSTATE MEDICAL CENTER,MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,306.0,286.0,762.0,,4.0,152.0
+330279,MERCY HOSPITAL OF BUFFALO,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,306.0,307.0,,,3.0,152.0
+390222,RIDDLE MEMORIAL HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,306.0,302.0,531.0,,3.0,152.0
+450015,PARKLAND HEALTH & HOSPITAL SYSTEM,TX,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,very high,306.0,295.0,454.0,,2.0,152.0
+220110,BRIGHAM AND WOMEN'S HOSPITAL,MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,305.0,300.0,274.0,528.0,5.0,151.0
+210002,UNIVERSITY OF MARYLAND MEDICAL CENTER,MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,not available,304.0,309.0,291.0,,,150.0
+330043,NS/LIJ HS SOUTHSIDE HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,304.0,284.0,422.0,,1.0,150.0
+450044,UT OF TEXAS  SOUTHWESTERN UNIVERSITY HOSPITAL - WILLIAM P. CLEMENTS JR.,TX,Acute Care Hospitals,Government - State,Yes,4,high,304.0,300.0,712.0,,1.0,150.0
+390329,JEFFERSON EINSTEIN MONTGOMERY HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,303.0,297.0,417.0,,3.0,149.0
+140197,METHODIST HOSPITAL OF CHICAGO,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,,low,302.0,175.0,342.0,344.0,1.0,148.0
+210016,ADVENTIST HEALTHCARE WHITE OAK MEDICAL CENTER,MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,302.0,296.0,514.0,720.0,5.0,148.0
+230230,EDWARD W SPARROW HOSPITAL,MI,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,very high,302.0,299.0,726.0,609.0,3.0,148.0
+330164,HIGHLAND HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,302.0,304.0,,,4.0,148.0
+050353,PROVIDENCE LITTLE COMPANY OF MARY MED CTR TORRANCE,CA,Acute Care Hospitals,Voluntary non-profit - Church,No,5,very high,300.0,291.0,357.0,,2.0,146.0
+140067,SAINT FRANCIS MEDICAL CENTER,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,300.0,286.0,566.0,354.0,4.0,146.0
+330226,UNITY HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,300.0,299.0,320.0,376.0,1.0,146.0
+390195,MAIN LINE HOSPITAL LANKENAU,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,300.0,299.0,,,4.0,146.0
+440152,REGIONAL ONE HEALTH,TN,Acute Care Hospitals,Government - Hospital District or Authority,Yes,1,high,299.0,294.0,451.0,,3.0,145.0
+260065,MERCY HOSPITAL SPRINGFIELD,MO,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,298.0,299.0,295.0,,4.0,144.0
+340040,ECU HEALTH MEDICAL CENTER,NC,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,298.0,289.0,848.0,,3.0,144.0
+140124,JOHN H STROGER JR HOSPITAL,IL,Acute Care Hospitals,Government - Local,Yes,2,very high,297.0,293.0,583.0,,1.0,143.0
+220163,UMASS MEMORIAL MEDICAL CENTER/UNIVERSITY CAMPUS,MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,297.0,291.0,844.0,,8.0,143.0
+300012,ELLIOT HOSPITAL,NH,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,297.0,291.0,322.0,,11.0,143.0
+330023,VASSAR BROTHERS MEDICAL CENTER,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,295.0,295.0,,,2.0,141.0
+050373,LOS ANGELES GENERAL MEDICAL CENTER,CA,Acute Care Hospitals,Government - Local,Yes,2,very high,294.0,286.0,421.0,,2.0,140.0
+330128,ELMHURST HOSPITAL CENTER,NY,Acute Care Hospitals,Government - Local,Yes,2,very high,294.0,278.0,500.0,,2.0,140.0
+050228,ZUCKERBERG SAN FRANCISCO GENERAL HOSP & TRAUMA CTR,CA,Acute Care Hospitals,Government - Local,Yes,2,very high,293.0,300.0,64.0,416.0,7.0,139.0
+390111,HOSPITAL OF UNIV OF PENNSYLVANIA,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,293.0,290.0,325.0,,6.0,139.0
+410012,THE MIRIAM HOSPITAL,RI,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,293.0,294.0,228.0,,5.0,139.0
+330241,UNIVERSITY HOSPITAL S U N Y HEALTH SCIENCE CENTER,NY,Acute Care Hospitals,Government - State,Yes,3,very high,291.0,291.0,269.0,,9.0,137.0
+050485,MEMORIALCARE LONG BEACH MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Other,No,2,very high,288.0,284.0,,,3.0,134.0
+110078,EMORY UNIVERSITY HOSPITAL MIDTOWN,GA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,288.0,289.0,257.0,,6.0,134.0
+220090,MILFORD REGIONAL MEDICAL CENTER,MA,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4,high,288.0,274.0,579.0,347.0,3.0,134.0
+320021,PRESBYTERIAN HOSPITAL,NM,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,288.0,280.0,401.0,,8.0,134.0
+250082,DELTA HEALTH SYSTEM - THE MEDICAL CENTER,MS,Acute Care Hospitals,Government - Local,Yes,1,medium,287.0,270.0,674.0,254.0,7.0,133.0
+490009,UNIVERSITY OF VIRGINIA MEDICAL CENTER,VA,Acute Care Hospitals,Government - State,Yes,4,very high,287.0,278.0,361.0,446.0,2.0,133.0
+110215,PIEDMONT FAYETTE HOSPITAL,GA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,286.0,286.0,,,5.0,132.0
+220071,MASSACHUSETTS GENERAL HOSPITAL,MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,286.0,288.0,78.0,,4.0,132.0
+040016,University of Arkansas Medical Sciences,AR,Acute Care Hospitals,Government - State,Yes,2,very high,285.0,285.0,282.0,,5.0,131.0
+140177,JACKSON PARK HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,low,285.0,268.0,356.0,,0.0,131.0
+140276,LOYOLA UNIVERSITY MEDICAL CENTER,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,284.0,275.0,320.0,,3.0,130.0
+320001,UNM HOSPITAL,NM,Acute Care Hospitals,Government - State,Yes,2,very high,283.0,273.0,334.0,384.0,2.0,129.0
+080001,CHRISTIANA HOSPITAL,DE,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,282.0,272.0,471.0,,6.0,128.0
+330055,NEW YORK-PRESBYTERIAN/QUEENS,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,282.0,280.0,368.0,,6.0,128.0
+500050,PEACEHEALTH SOUTHWEST MEDICAL CENTE,WA,Acute Care Hospitals,Voluntary non-profit - Private,No,3,very high,282.0,275.0,677.0,,3.0,128.0
+260032,BARNES JEWISH HOSPITAL,MO,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4,very high,281.0,277.0,376.0,,7.0,127.0
+050045,EL CENTRO REGIONAL MEDICAL CENTER,CA,Acute Care Hospitals,Government - Local,Yes,1,medium,280.0,279.0,265.0,584.0,5.0,126.0
+050438,HUNTINGTON HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Other,Yes,,very high,280.0,268.0,460.0,,4.0,126.0
+050441,STANFORD HEALTH CARE,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,280.0,276.0,430.0,386.0,3.0,126.0
+050454,UCSF MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4,very high,280.0,276.0,428.0,,4.0,126.0
+400048,HOSPITAL MENONITA GUAYAMA,PR,Acute Care Hospitals,Voluntary non-profit - Private,Yes,,not available,280.0,277.0,315.0,446.0,,126.0
+440039,VANDERBILT UNIVERSITY MEDICAL CENTER,TN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,280.0,269.0,426.0,,1.0,126.0
+070002,ST FRANCIS HOSPITAL & MEDICAL CENTER,CT,Acute Care Hospitals,Voluntary non-profit - Church,Yes,2,very high,279.0,275.0,433.0,,3.0,125.0
+220066,MERCY MEDICAL CTR,MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,279.0,275.0,560.0,,8.0,125.0
+400032,BAYAMON MEDICAL CENTER,PR,Acute Care Hospitals,Proprietary,Yes,,medium,279.0,279.0,227.0,,2.0,125.0
+520177,FROEDTERT MEMORIAL LUTHERAN HOSPITAL,WI,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,279.0,275.0,345.0,,6.0,125.0
+140010,NORTHSHORE UNIVERSITY HEALTHSYSTEM - EVANSTON HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Other,Yes,5,very high,278.0,273.0,371.0,,10.0,124.0
+210048,JOHNS HOPKINS HOWARD COUNTY MEDICAL CENTER,MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,278.0,266.0,1166.0,618.0,4.0,124.0
+390050,ALLEGHENY GENERAL HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,278.0,274.0,283.0,,3.0,124.0
+390226,PENNSYLVANIA HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,278.0,280.0,215.0,,3.0,124.0
+030065,BANNER DESERT MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,277.0,269.0,547.0,,2.0,123.0
+140049,WEST SUBURBAN MEDICAL CENTER,IL,Acute Care Hospitals,Voluntary non-profit - Other,No,1,medium,277.0,272.0,452.0,,5.0,123.0
+210051,"LUMINIS HEALTH DOCTORS COMMUNITY MEDICAL CTR, INC",MD,Acute Care Hospitals,Proprietary,Yes,3,not available,277.0,272.0,432.0,500.0,,123.0
+110087,NORTHSIDE HOSPITAL GWINNETT,GA,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,very high,276.0,272.0,384.0,,3.0,122.0
+140179,OSF LITTLE COMPANY OF MARY MEDICAL CENTER,IL,Acute Care Hospitals,Voluntary non-profit - Other,Yes,2,high,276.0,256.0,548.0,347.0,4.0,122.0
+220035,NORTH SHORE MEDICAL CENTER -,MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,276.0,271.0,430.0,,7.0,122.0
+220111,GOOD SAMARITAN MEDICAL CENTER,MA,Acute Care Hospitals,Proprietary,Yes,2,high,276.0,264.0,643.0,281.0,6.0,122.0
+330013,ALBANY MEDICAL CENTER HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,very high,276.0,266.0,445.0,,5.0,122.0
+490024,CARILION MEDICAL CENTER,VA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,276.0,272.0,399.0,,1.0,122.0
+030088,BANNER BAYWOOD MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,275.0,259.0,305.0,401.0,2.0,121.0
+300003,MARY HITCHCOCK MEMORIAL HOSPITAL,NH,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,275.0,264.0,404.0,,1.0,121.0
+360276,HMHP ST ELIZABETH BOARDMAN HEALTH CENTER,OH,Acute Care Hospitals,Voluntary non-profit - Church,Yes,2,high,275.0,274.0,,,1.0,121.0
+080004,"BAYHEALTH MEDICAL CENTER, KENT CAMPUS",DE,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,274.0,268.0,474.0,,3.0,120.0
+330046,MOUNT SINAI WEST,NY,Acute Care Hospitals,Voluntary non-profit - Church,Yes,4,very high,274.0,272.0,303.0,,2.0,120.0
+410009,KENT COUNTY MEMORIAL HOSPITAL,RI,Acute Care Hospitals,Proprietary,Yes,3,high,274.0,262.0,655.0,,4.0,120.0
+440059,COOKEVILLE REGIONAL MEDICAL CENTER,TN,Acute Care Hospitals,Government - Local,Yes,2,medium,274.0,268.0,387.0,376.0,1.0,120.0
+050025,UC SAN DIEGO HEALTH HILLCREST - HILLCREST MED CTR,CA,Acute Care Hospitals,Voluntary non-profit - Other,Yes,5,very high,272.0,259.0,334.0,345.0,4.0,118.0
+050455,ADVENTIST HEALTH BAKERSFIELD,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,272.0,268.0,298.0,,3.0,118.0
+110165,SOUTHERN REGIONAL MEDICAL CENTER,GA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,high,272.0,265.0,706.0,,9.0,118.0
+210012,SINAI HOSPITAL OF BALTIMORE,MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,272.0,257.0,592.0,992.0,2.0,118.0
+210035,UNIVERSITY OF MD CHARLES REGIONAL  MEDICAL CENTER,MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,271.0,262.0,534.0,739.0,4.0,117.0
+330202,KINGS COUNTY HOSPITAL CENTER,NY,Acute Care Hospitals,Government - Local,Yes,1,not available,271.0,261.0,634.0,,,117.0
+030111,BANNER-UNIVERSITY MEDICAL CENTER SOUTH CAMPUS,AZ,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,270.0,260.0,350.0,729.0,11.0,116.0
+210063,UNIVERSITY OF MD ST JOSEPH MEDICAL CENTER,MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,high,270.0,264.0,360.0,,4.0,116.0
+230097,MUNSON MEDICAL CENTER,MI,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4,high,270.0,259.0,384.0,,3.0,116.0
+440173,PARKWEST MEDICAL CENTER,TN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,270.0,259.0,760.0,,4.0,116.0
+250141,BAPTIST MEMORIAL HOSPITAL DESOTO,MS,Acute Care Hospitals,Proprietary,Yes,3,very high,269.0,259.0,357.0,444.0,2.0,115.0
+390101,UPMC MEMORIAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,269.0,266.0,300.0,434.0,1.0,115.0
+030002,BANNER - UNIVERSITY MEDICAL CENTER PHOENIX,AZ,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,very high,268.0,266.0,390.0,,3.0,114.0
+050238,USC ARCADIA HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,268.0,258.0,399.0,557.0,4.0,114.0
+070025,HARTFORD HOSPITAL,CT,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,268.0,269.0,241.0,,0.0,114.0
+220001,UMASS MEMORIAL HEALTHALLIANCE HOSPITALS,MA,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,high,268.0,253.0,930.0,500.0,6.0,114.0
+220046,BERKSHIRE MEDICAL CENTER,MA,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4,high,268.0,254.0,489.0,,5.0,114.0
+220101,NEWTON-WELLESLEY HOSPITAL,MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,268.0,265.0,348.0,,3.0,114.0
+230130,BEAUMONT HOSPITAL ROYAL OAK,MI,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,268.0,266.0,462.0,,4.0,114.0
+340061,UNC HOSPITALS,NC,Acute Care Hospitals,Government - State,Yes,5,very high,268.0,268.0,301.0,,4.0,114.0
+360070,MERCY MEDICAL CENTER,OH,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,268.0,265.0,335.0,,4.0,114.0
+500008,UNIVERSITY OF WASHINGTON MEDICAL CTR,WA,Acute Care Hospitals,Government - State,No,4,very high,268.0,266.0,328.0,,4.0,114.0
+500072,OLYMPIC MEDICAL CENTER,WA,Acute Care Hospitals,Government - Local,Yes,3,medium,268.0,251.0,373.0,562.0,1.0,114.0
+110034,"WELLSTAR MCG HEALTH, AFFILIATED WITH MED COL",GA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,very high,267.0,251.0,590.0,,4.0,113.0
+220063,LOWELL GENERAL HOSPITAL,MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,267.0,267.0,218.0,,9.0,113.0
+390046,WELLSPAN YORK HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,267.0,254.0,501.0,,1.0,113.0
+050056,ANTELOPE VALLEY HOSPITAL,CA,Acute Care Hospitals,Government - Hospital District or Authority,Yes,1,very high,266.0,264.0,316.0,,2.0,112.0
+050057,KAWEAH HEALTH MEDICAL CENTER,CA,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,very high,266.0,254.0,619.0,,2.0,112.0
+100220,GULF COAST MEDICAL CENTER LEE HEALTH,FL,Acute Care Hospitals,Government - Hospital District or Authority,Yes,4,very high,266.0,270.0,214.0,,2.0,112.0
+110035,WELLSTAR KENNESTONE REGIONAL MEDICAL CENTER,GA,Acute Care Hospitals,Government - Hospital District or Authority,Yes,4,very high,266.0,262.0,501.0,,1.0,112.0
+110143,WELLSTAR COBB MEDICAL CENTER,GA,Acute Care Hospitals,Voluntary non-profit - Other,No,3,very high,266.0,262.0,476.0,,1.0,112.0
+140114,SWEDISH HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Church,Yes,3,high,266.0,254.0,438.0,,8.0,112.0
+230167,MCLAREN GREATER LANSING,MI,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,266.0,261.0,391.0,,3.0,112.0
+330191,GLENS FALLS HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,266.0,260.0,396.0,,4.0,112.0
+450021,BAYLOR UNIVERSITY MEDICAL CENTER,TX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,266.0,264.0,280.0,,3.0,112.0
+470003,UNIV. OF VERMONT - FLETCHER ALLEN HEALTH CARE,VT,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4,very high,266.0,259.0,424.0,,3.0,112.0
+190098,OCHSNER LSU HEALTH SHREVEPORT,LA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,265.0,247.0,496.0,339.0,2.0,111.0
+330141,LONG ISLAND COMMUNITY HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,265.0,261.0,430.0,,1.0,111.0
+450610,MEMORIAL HERMANN MEMORIAL CITY HOSPITAL,TX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,265.0,259.0,407.0,,1.0,111.0
+050168,PROVIDENCE ST. JUDE MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Church,Yes,4,very high,264.0,263.0,217.0,,2.0,110.0
+110082,"SAINT JOSEPH'S HOSPITAL OF ATLANTA, INC",GA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,264.0,263.0,310.0,,3.0,110.0
+210018,MEDSTAR MONTGOMERY MEDICAL CENTER,MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,264.0,259.0,391.0,,1.0,110.0
+330157,SAMARITAN MEDICAL CENTER,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,medium,264.0,260.0,405.0,383.0,8.0,110.0
+390256,MILTON S HERSHEY MEDICAL CENTER,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,264.0,261.0,368.0,,2.0,110.0
+500150,LEGACY SALMON CREEK MEDICAL CENTER,WA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,264.0,260.0,328.0,,1.0,110.0
+220119,BRIGHAM AND WOMEN FAULKNER HOSPITAL,MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,medium,263.0,256.0,269.0,376.0,3.0,109.0
+340155,DUKE REGIONAL HOSPITAL,NC,Acute Care Hospitals,Government - Local,Yes,5,very high,263.0,255.0,358.0,,3.0,109.0
+220024,HOLYOKE MEDICAL CENTER,MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,262.0,253.0,482.0,,3.0,108.0
+260108,MISSOURI BAPTIST MEDICAL CENTER,MO,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,high,262.0,262.0,,,3.0,108.0
+050557,MEMORIAL MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,261.0,258.0,,,1.0,107.0
+150089,INDIANA UNIVERSITY HEALTH BALL MEMORIAL HOSPITAL,IN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,261.0,254.0,323.0,,5.0,107.0
+390013,WELLSPAN EVANGELICAL COMMUNITY HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,261.0,256.0,,350.0,2.0,107.0
+090008,UNITED MEDICAL CENTER,DC,Acute Care Hospitals,Proprietary,Yes,3,medium,260.0,264.0,,,8.0,106.0
+110095,TIFT REGIONAL MEDICAL CENTER,GA,Acute Care Hospitals,Government - Hospital District or Authority,No,3,high,260.0,255.0,502.0,,2.0,106.0
+140239,JAVON BEA HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,260.0,258.0,312.0,,6.0,106.0
+220015,"COOLEY DICKINSON HOSPITAL INC,THE",MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,medium,260.0,261.0,236.0,,4.0,106.0
+291302,WILLIAM BEE RIRIE HOSPITAL,NV,Critical Access Hospitals,Government - Hospital District or Authority,Yes,,low,260.0,194.0,451.0,264.0,2.0,106.0
+340050,SOUTHEASTERN REGIONAL MEDICAL CENTER,NC,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,260.0,248.0,306.0,407.0,2.0,106.0
+410007,RHODE ISLAND HOSPITAL,RI,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,260.0,258.0,311.0,,6.0,106.0
+450068,MEMORIAL HERMANN - TEXAS MEDICAL CENTER,TX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,260.0,252.0,608.0,,5.0,106.0
+050573,EISENHOWER MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,Yes,4,very high,259.0,259.0,,,0.0,105.0
+150158,IU HEALTH WEST HOSPITAL,IN,Acute Care Hospitals,Proprietary,Yes,4,high,259.0,253.0,372.0,520.0,3.0,105.0
+330094,COLUMBIA MEMORIAL HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,medium,259.0,243.0,863.0,326.0,4.0,105.0
+390004,PENN STATE HEALTH HOLY SPIRIT MEDICAL CENTER,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,259.0,252.0,410.0,,2.0,105.0
+360003,"UNIVERSITY OF CINCINNATI MEDICAL CENTER, LLC",OH,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,258.0,250.0,267.0,422.0,0.0,104.0
+390142,JEFFERSON EINSTEIN PHILADELPHIA HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,very high,258.0,268.0,134.0,151.0,11.0,104.0
+390231,JEFFERSON ABINGTON HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,258.0,256.0,472.0,,4.0,104.0
+050128,TRI-CITY MEDICAL CENTER,CA,Acute Care Hospitals,Government - Hospital District or Authority,Yes,1,high,257.0,248.0,324.0,,2.0,103.0
+210028,MEDSTAR SAINT MARY'S HOSPITAL,MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,257.0,256.0,251.0,586.0,3.0,103.0
+240053,PARK NICOLLET METHODIST HOSPITAL,MN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,257.0,257.0,238.0,,3.0,103.0
+260077,MERCY HOSPITAL SOUTH,MO,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,257.0,254.0,313.0,,2.0,103.0
+450101,BAYLOR SCOTT & WHITE MEDICAL CENTER HILLCREST,TX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,257.0,255.0,377.0,,4.0,103.0
+050030,OROVILLE HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,medium,256.0,243.0,466.0,,13.0,102.0
+070036,JOHN DEMPSEY HOSPITAL OF THE UNIVERSITY OF CONNECT,CT,Acute Care Hospitals,Government - Local,Yes,3,high,256.0,246.0,269.0,385.0,1.0,102.0
+080009,"BAYHEALTH HOSPITAL, SUSSEX CAMPUS",DE,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,256.0,252.0,,,3.0,102.0
+110083,"PIEDMONT HOSPITAL, INC",GA,Acute Care Hospitals,Government - Federal,No,4,very high,256.0,254.0,341.0,,1.0,102.0
+140048,ADVOCATE TRINITY HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Church,Yes,2,very high,256.0,247.0,454.0,330.0,7.0,102.0
+140103,ST BERNARD HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Church,Yes,1,medium,256.0,231.0,676.0,,14.0,102.0
+210040,NORTHWEST HOSPITAL CENTER,MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,256.0,251.0,358.0,476.0,2.0,102.0
+260191,BARNES-JEWISH ST PETERS HOSPITAL,MO,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,medium,256.0,253.0,288.0,275.0,2.0,102.0
+280013,THE NEBRASKA MEDICAL CENTER,NE,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,256.0,256.0,293.0,,3.0,102.0
+390267,FORBES HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,256.0,261.0,213.0,,3.0,102.0
+050099,SAN ANTONIO REGIONAL HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,very high,255.0,257.0,209.0,,2.0,101.0
+330307,CAYUGA MEDICAL CENTER AT ITHACA,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,255.0,244.0,382.0,597.0,2.0,101.0
+440015,"UNIVERSITY HEALTH SYSTEM, INC",TN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,255.0,249.0,753.0,,0.0,101.0
+050124,USC VERDUGO HILLS HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,254.0,243.0,486.0,622.0,5.0,100.0
+050149,CALIFORNIA HOSPITAL MEDICAL CENTER LA,CA,Acute Care Hospitals,Voluntary non-profit - Other,Yes,2,very high,254.0,254.0,,,2.0,100.0
+070016,SAINT MARY'S HOSPITAL,CT,Acute Care Hospitals,Voluntary non-profit - Church,Yes,3,high,254.0,249.0,572.0,,5.0,100.0
+200024,CENTRAL MAINE MEDICAL CENTER,ME,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,254.0,253.0,,,6.0,100.0
+210001,MERITUS MEDICAL CENTER,MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,254.0,250.0,335.0,503.0,2.0,100.0
+330126,GARNET HEALTH MEDICAL CENTER,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,254.0,252.0,285.0,,5.0,100.0
+500014,PROVIDENCE REGIONAL MEDICAL CENTER EVERETT,WA,Acute Care Hospitals,Voluntary non-profit - Church,Yes,4,very high,254.0,246.0,366.0,,3.0,100.0
+050063,HOLLYWOOD PRESBYTERIAN MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,Yes,3,high,253.0,241.0,568.0,,4.0,99.0
+140068,ROSELAND COMMUNITY HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,low,253.0,246.0,360.0,,8.0,99.0
+330080,LINCOLN MEDICAL & MENTAL HEALTH CENTER,NY,Acute Care Hospitals,Government - Local,Yes,2,medium,253.0,234.0,336.0,,9.0,99.0
+360359,UNIVERSITY HOSPITALS AHUJA MEDICAL CENTER,OH,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,253.0,244.0,385.0,,2.0,99.0
+450124,DELL SETON  MED CENTER AT THE UNIVERSITY OF TX,TX,Acute Care Hospitals,Voluntary non-profit - Private,No,4,not available,253.0,249.0,328.0,514.0,,99.0
+140251,COMMUNITY FIRST MEDICAL CENTER,IL,Acute Care Hospitals,Proprietary,Yes,2,medium,252.0,235.0,415.0,383.0,2.0,98.0
+240010,MAYO CLINIC HOSPITAL ROCHESTER,MN,Acute Care Hospitals,Voluntary non-profit - Church,Yes,5,very high,252.0,246.0,327.0,,3.0,98.0
+310015,MORRISTOWN MEDICAL CENTER,NJ,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,252.0,250.0,,,1.0,98.0
+330106,NORTH SHORE UNIVERSITY HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,252.0,252.0,,,3.0,98.0
+330195,LONG ISLAND JEWISH MEDICAL CENTER,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,252.0,252.0,280.0,,2.0,98.0
+350006,TRINITY HOSPITALS,ND,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,252.0,247.0,429.0,,8.0,98.0
+450847,MEMORIAL HERMANN KATY HOSPITAL,TX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,252.0,251.0,,,1.0,98.0
+210003,UNIVERSITY OF MD CAPITAL REGION MEDICAL CENTER,MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,very high,251.0,246.0,,,7.0,97.0
+210023,"LUMINIS HEALTH ANNE ARUNDEL MEDICAL CENTER, INC",MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,not available,251.0,245.0,454.0,519.0,,97.0
+220010,MERRIMACK HEALTH LAWRENCE HOSPITAL,MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,251.0,241.0,566.0,,5.0,97.0
+230002,ST JOE MERCY HOSPITAL SYSTEM LIVONIA,MI,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,251.0,241.0,483.0,,3.0,97.0
+050704,MISSION COMMUNITY HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,No,3,low,250.0,233.0,416.0,447.0,1.0,96.0
+100113,UF HEALTH SHANDS HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,250.0,248.0,347.0,,4.0,96.0
+140062,PALOS COMMUNITY HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,250.0,252.0,196.0,,3.0,96.0
+210056,MEDSTAR GOOD SAMARITAN HOSPITAL,MD,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,high,250.0,247.0,281.0,,4.0,96.0
+250048,ST DOMINIC-JACKSON MEMORIAL HOSPITAL,MS,Acute Care Hospitals,Voluntary non-profit - Church,Yes,2,high,250.0,250.0,301.0,,1.0,96.0
+260183,SAINT FRANCIS MEDICAL CENTER,MO,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,250.0,247.0,280.0,,5.0,96.0
+260216,SAINT LUKE'S EAST  HOSPITAL,MO,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,250.0,247.0,354.0,271.0,7.0,96.0
+330024,MOUNT SINAI HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,250.0,248.0,362.0,,2.0,96.0
+330231,QUEENS HOSPITAL CENTER,NY,Acute Care Hospitals,Voluntary non-profit - Other,Yes,2,very high,250.0,245.0,450.0,,1.0,96.0
+330285,STRONG MEMORIAL HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,250.0,247.0,278.0,,5.0,96.0
+340004,HIGH POINT REGIONAL HEALTH SYSTEM,NC,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,250.0,247.0,240.0,,2.0,96.0
+360364,CLEVELAND CLINIC AVON HOSPITAL,OH,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,high,250.0,247.0,,347.0,3.0,96.0
+490052,RIVERSIDE REGIONAL MEDICAL CENTER,VA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,250.0,247.0,266.0,345.0,4.0,96.0
+010039,HUNTSVILLE HOSPITAL,AL,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,very high,249.0,238.0,300.0,,1.0,95.0
+210049,UMD UPPER CHESAPEAKE MEDICAL CENTER,MD,Acute Care Hospitals,Voluntary non-profit - Other,Yes,2,not available,249.0,239.0,586.0,,,95.0
+330331,PLAINVIEW HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,249.0,245.0,,310.0,2.0,95.0
+360077,FAIRVIEW HOSPITAL,OH,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,249.0,242.0,327.0,,3.0,95.0
+390328,UPMC EAST,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,249.0,245.0,356.0,304.0,2.0,95.0
+420027,ANMED HEALTH,SC,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,249.0,246.0,519.0,,4.0,95.0
+050393,PIH HEALTH DOWNEY HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,248.0,242.0,,,5.0,94.0
+210038,UNIVERSITY OF MD MEDICAL CENTER MIDTOWN CAMPUS,MD,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,not available,248.0,243.0,392.0,,,94.0
+241328,SANFORD BAGLEY MEDICAL CENTER,MN,Critical Access Hospitals,Voluntary non-profit - Private,Yes,,low,248.0,160.0,352.0,255.0,2.0,94.0
+300001,CONCORD HOSPITAL,NH,Acute Care Hospitals,Voluntary non-profit - Private,No,3,high,248.0,243.0,339.0,,5.0,94.0
+340171,NOVANT HEALTH MATTHEWS MEDICAL CENTER,NC,Acute Care Hospitals,Voluntary non-profit - Other,Yes,5,medium,248.0,244.0,,291.0,2.0,94.0
+390027,TEMPLE UNIVERSITY HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,248.0,243.0,314.0,598.0,11.0,94.0
+050378,PACIFICA HOSPITAL OF THE VALLEY,CA,Acute Care Hospitals,Proprietary,Yes,,low,247.0,227.0,353.0,812.0,5.0,93.0
+110069,EMORY HOUSTON HOSPITAL WARNER ROBINS,GA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,medium,247.0,240.0,572.0,,1.0,93.0
+390179,CHESTER COUNTY HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,247.0,241.0,410.0,,2.0,93.0
+450184,MEMORIAL HERMANN HOSPITAL SYSTEM,TX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,247.0,243.0,438.0,329.0,1.0,93.0
+010078,NORTHEAST ALABAMA REGIONAL MEDICAL CENTER,AL,Acute Care Hospitals,Government - Local,Yes,1,medium,246.0,244.0,263.0,,4.0,92.0
+050093,SAINT AGNES MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Church,Yes,2,very high,246.0,240.0,477.0,,2.0,92.0
+050492,CLOVIS COMMUNITY MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,246.0,242.0,488.0,,1.0,92.0
+140115,THOREK MEMORIAL HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,,low,246.0,174.0,451.0,428.0,10.0,92.0
+330259,MERCY MEDICAL CENTER,NY,Acute Care Hospitals,Voluntary non-profit - Church,Yes,5,medium,246.0,238.0,396.0,,1.0,92.0
+380018,ASANTE ROGUE REGIONAL MEDICAL CENTER,OR,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,246.0,243.0,272.0,286.0,3.0,92.0
+010056,ST VINCENT'S BIRMINGHAM,AL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,not available,245.0,243.0,441.0,350.0,,91.0
+010149,BAPTIST MEDICAL CENTER EAST,AL,Acute Care Hospitals,Government - Hospital District or Authority,Yes,4,high,245.0,239.0,382.0,,6.0,91.0
+040134,"ARKANSAS HEART HOSPITAL, LLC",AR,Acute Care Hospitals,Proprietary,Yes,3,low,245.0,238.0,,380.0,3.0,91.0
+330180,"SAMARITAN HOSPITAL OF TROY, NEW YORK",NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,245.0,228.0,375.0,461.0,4.0,91.0
+340107,VIDANT EDGECOMBE HOSPITAL,NC,Acute Care Hospitals,Government - Local,Yes,3,medium,245.0,239.0,280.0,501.0,4.0,91.0
+360137,UH CLEVELAND MEDICAL CENTER,OH,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,245.0,241.0,500.0,,5.0,91.0
+030115,BANNER ESTRELLA MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,244.0,236.0,334.0,,3.0,90.0
+110191,PIEDMONT HENRY HOSPITAL,GA,Acute Care Hospitals,Government - Hospital District or Authority,No,2,very high,244.0,239.0,503.0,,4.0,90.0
+160083,MERCYONE DES MOINES MEDICAL CENTER,IA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,very high,244.0,244.0,250.0,,4.0,90.0
+230036,MYMICHIGAN MEDICAL CENTER ALPENA,MI,Acute Care Hospitals,Proprietary,Yes,3,medium,244.0,229.0,433.0,497.0,5.0,90.0
+230302,HENRY FORD HEALTH WEST BLOOMFIELD HOSPITAL,MI,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,244.0,242.0,408.0,,5.0,90.0
+240004,HENNEPIN COUNTY MEDICAL CENTER,MN,Acute Care Hospitals,Government - Local,Yes,3,very high,244.0,235.0,356.0,,4.0,90.0
+380102,SACRED HEART MEDICAL CENTER - RIVERBEND,OR,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,244.0,242.0,419.0,,3.0,90.0
+390042,"WASHINGTON HOSPITAL, THE",PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,244.0,242.0,278.0,,3.0,90.0
+140172,FRANCISCAN HEALTH OLYMPIA & CHICAGO HEIGHTS,IL,Acute Care Hospitals,Voluntary non-profit - Church,Yes,3,high,243.0,228.0,442.0,,1.0,89.0
+140289,ANDERSON HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,243.0,231.0,306.0,396.0,1.0,89.0
+210065,HOLY CROSS GERMANTOWN HOSPITAL,MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,medium,243.0,233.0,524.0,,2.0,89.0
+300018,WENTWORTH-DOUGLASS HOSPITAL,NH,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,243.0,242.0,236.0,378.0,2.0,89.0
+450024,UNIVERSITY MEDICAL CENTER OF EL PASO,TX,Acute Care Hospitals,Physician,Yes,3,very high,243.0,240.0,,589.0,0.0,89.0
+030069,HAVASU REGIONAL MEDICAL CENTER,AZ,Acute Care Hospitals,Proprietary,Yes,3,medium,242.0,233.0,306.0,620.0,3.0,88.0
+050135,SOUTHERN CALIFORNIA HOSPITAL AT HOLLYWOOD,CA,Acute Care Hospitals,Proprietary,Yes,3,medium,242.0,237.0,305.0,480.0,2.0,88.0
+050169,PIH HEALTH HOSPITAL-WHITTIER,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,242.0,237.0,,,5.0,88.0
+050778,LOMA LINDA UNIVERSITY CHILDREN'S HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Church,No,3,high,242.0,232.0,306.0,,6.0,88.0
+140083,LORETTO HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Other,Yes,,low,242.0,228.0,350.0,,6.0,88.0
+210027,WESTERN MARYLAND REGIONAL MEDICAL CENTER,MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,242.0,235.0,282.0,386.0,2.0,88.0
+220105,WINCHESTER HOSPITAL,MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,242.0,233.0,424.0,292.0,3.0,88.0
+230156,TRINITY HEALTH ANN ARBOR HOSPITAL,MI,Acute Care Hospitals,Voluntary non-profit - Church,Yes,4,very high,242.0,241.0,326.0,,2.0,88.0
+390174,THOMAS JEFFERSON UNIVERSITY HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,242.0,236.0,268.0,,2.0,88.0
+390201,LEHIGH VALLEY HOSPITAL - POCONO,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,242.0,232.0,741.0,655.0,1.0,88.0
+420051,MCLEOD REGIONAL MEDICAL CENTER-PEE DEE,SC,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,242.0,238.0,650.0,,4.0,88.0
+440002,JACKSON-MADISON COUNTY GENERAL HOSPITAL,TN,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,very high,242.0,241.0,258.0,,4.0,88.0
+440125,FORT SANDERS REGIONAL MEDICAL CENTER,TN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,242.0,234.0,502.0,,4.0,88.0
+490050,VIRGINIA HOSPITAL CENTER,VA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,242.0,240.0,388.0,,3.0,88.0
+050036,BAKERSFIELD MEMORIAL HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,241.0,240.0,,,4.0,87.0
+050292,RIVERSIDE UNIVERSITY HEALTH SYSTEM-MEDICAL CENTER,CA,Acute Care Hospitals,Government - Local,Yes,3,very high,241.0,234.0,654.0,684.0,0.0,87.0
+110129,ST FRANCIS HOSPITAL- EMORY HEALTHCARE,GA,Acute Care Hospitals,Voluntary non-profit - Private,No,3,high,241.0,226.0,779.0,,3.0,87.0
+220080,HOLY FAMILY HOSPITAL,MA,Acute Care Hospitals,Proprietary,Yes,2,high,241.0,238.0,298.0,,5.0,87.0
+330169,MOUNT SINAI BETH ISRAEL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,241.0,239.0,262.0,,1.0,87.0
+330185,JOHN T MATHER MEMORIAL HOSPITAL  OF PORT JEFFERSON,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,medium,241.0,235.0,274.0,330.0,1.0,87.0
+330395,ST JOHN'S EPISCOPAL HOSPITAL AT SOUTH SHORE,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,high,241.0,233.0,461.0,,2.0,87.0
+390012,JEFFERSON LANSDALE HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,241.0,234.0,585.0,378.0,2.0,87.0
+490021,CENTRA HEALTH -  LYNCHBURG GEN HOSPITAL,VA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,241.0,234.0,394.0,,3.0,87.0
+500011,HIGHLINE MEDICAL CENTER,WA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,241.0,235.0,415.0,,4.0,87.0
+050043,ALTA BATES SUMMIT MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,high,240.0,235.0,323.0,,2.0,86.0
+050104,SAINT FRANCIS MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Church,No,3,very high,240.0,238.0,344.0,,1.0,86.0
+110164,"COLISEUM MEDICAL CENTERS, LLC, DBA",GA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,240.0,232.0,449.0,420.0,2.0,86.0
+140148,MEMORIAL MEDICAL CENTER,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,240.0,241.0,267.0,304.0,3.0,86.0
+290007,UNIVERSITY MEDICAL CENTER,NV,Acute Care Hospitals,Voluntary non-profit - Other,Yes,2,very high,240.0,238.0,321.0,,2.0,86.0
+330065,NIAGARA FALLS MEMORIAL MEDICAL CENTER,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,medium,240.0,229.0,474.0,473.0,3.0,86.0
+330104,NYACK HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,240.0,239.0,272.0,,3.0,86.0
+330153,ELLIS HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,240.0,232.0,287.0,,2.0,86.0
+330234,WESTCHESTER MEDICAL CENTER,NY,Acute Care Hospitals,Voluntary non-profit - Other,Yes,2,very high,240.0,235.0,346.0,,2.0,86.0
+380038,PROVIDENCE WILLAMETTE FALLS MEDICAL CENTER,OR,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,240.0,238.0,471.0,,7.0,86.0
+390203,DOYLESTOWN HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,240.0,228.0,385.0,,1.0,86.0
+390258,ST MARY MEDICAL CENTER,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,240.0,237.0,323.0,,2.0,86.0
+460009,UNIVERSITY OF UTAH HOSPITAL AND CLINICS,UT,Acute Care Hospitals,Government - State,Yes,5,very high,240.0,234.0,372.0,,5.0,86.0
+050060,COMMUNITY REGIONAL MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,very high,239.0,232.0,357.0,,2.0,85.0
+100359,SARASOTA MEMORIAL HOSPITAL - VENICE,FL,Acute Care Hospitals,Government - Hospital District or Authority,Yes,5,high,239.0,235.0,234.0,372.0,1.0,85.0
+330125,ROCHESTER GENERAL HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,239.0,233.0,355.0,414.0,1.0,85.0
+380004,PROVIDENCE ST VINCENT MEDICAL CENTER,OR,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,239.0,230.0,393.0,,4.0,85.0
+010092,DCH REGIONAL MEDICAL CENTER,AL,Acute Care Hospitals,Government - Hospital District or Authority,Yes,2,very high,238.0,237.0,521.0,,4.0,84.0
+050551,UCI HEALTH - LOS ALAMITOS,CA,Acute Care Hospitals,Proprietary,Yes,1,medium,238.0,238.0,,,1.0,84.0
+050567,PROVIDENCE MISSION HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,238.0,234.0,408.0,,1.0,84.0
+140182,ADVOCATE ILLINOIS MASONIC MEDICAL CENTER,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,238.0,237.0,286.0,,2.0,84.0
+210005,FREDERICK HEALTH HOSPITAL,MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,238.0,230.0,326.0,,6.0,84.0
+330102,KENMORE MERCY HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,238.0,236.0,,326.0,3.0,84.0
+330224,HEALTHALLIANCE HOSPITAL MARYS AVENUE CAMPUS,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,medium,238.0,222.0,450.0,350.0,2.0,84.0
+030089,BANNER THUNDERBIRD MEDICAL CENTER,AZ,Acute Care Hospitals,Government - Hospital District or Authority,No,4,very high,237.0,234.0,361.0,,3.0,83.0
+100128,TAMPA GENERAL HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,237.0,234.0,324.0,297.0,2.0,83.0
+180009,KING'S DAUGHTERS' MEDICAL CENTER,KY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,237.0,232.0,,,1.0,83.0
+210008,MERCY MEDICAL CENTER INC,MD,Acute Care Hospitals,Voluntary non-profit - Church,Yes,3,not available,237.0,237.0,248.0,,,83.0
+220060,BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH,MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,237.0,237.0,180.0,308.0,2.0,83.0
+220100,SOUTH SHORE HOSPITAL,MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,237.0,233.0,332.0,,2.0,83.0
+310005,HUNTERDON MEDICAL CENTER,NJ,Acute Care Hospitals,Voluntary non-profit - Private,No,4,medium,237.0,230.0,397.0,,1.0,83.0
+340070,ALAMANCE REGIONAL MEDICAL CENTER,NC,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,237.0,228.0,370.0,,4.0,83.0
+380051,SALEM HOSPITAL,OR,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,very high,237.0,234.0,285.0,,4.0,83.0
+450684,MEMORIAL HERMANN NORTHEAST HOSPITAL,TX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,237.0,235.0,334.0,,1.0,83.0
+030122,BANNER GATEWAY MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,high,236.0,224.0,,376.0,1.0,82.0
+100008,BAPTIST HOSPITAL OF MIAMI,FL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,236.0,236.0,,,0.0,82.0
+110038,ARCHBOLD MEMORIAL HOSPITAL,GA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,medium,236.0,233.0,344.0,,1.0,82.0
+140181,SOUTH SHORE HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,,low,236.0,224.0,491.0,,7.0,82.0
+360006,RIVERSIDE METHODIST HOSPITAL,OH,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,236.0,230.0,340.0,,1.0,82.0
+360008,SOUTHERN OHIO MEDICAL CENTER,OH,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4,medium,236.0,226.0,337.0,298.0,4.0,82.0
+390026,TEMPLE HEALTH - CHESTNUT HILL HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,236.0,234.0,,,3.0,82.0
+390164,UPMC PRESBYTERIAN SHADYSIDE,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,236.0,234.0,289.0,224.0,1.0,82.0
+510062,BECKLEY ARH HOSPITAL,WV,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,low,236.0,219.0,458.0,426.0,3.0,82.0
+050115,PALOMAR HEALTH DOWNTOWN CAMPUS,CA,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,very high,235.0,231.0,294.0,,2.0,81.0
+140063,RUSH OAK PARK HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,235.0,232.0,264.0,,6.0,81.0
+230017,BRONSON METHODIST HOSPITAL,MI,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,235.0,235.0,247.0,,8.0,81.0
+240106,REGIONS HOSPITAL,MN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,235.0,231.0,277.0,,4.0,81.0
+260137,FREEMAN HEALTH SYSTEM - FREEMAN WEST,MO,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,medium,235.0,228.0,476.0,,3.0,81.0
+330246,ST CHARLES HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Church,Yes,5,low,235.0,228.0,351.0,,1.0,81.0
+110029,"NORTHEAST GEORGIA MEDICAL CENTER, INC",GA,Acute Care Hospitals,Government - Local,Yes,3,very high,234.0,232.0,262.0,,1.0,80.0
+180044,PIKEVILLE MEDICAL CENTER,KY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,high,234.0,226.0,321.0,,5.0,80.0
+210044,GREATER BALTIMORE MEDICAL CENTER,MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,high,234.0,228.0,457.0,401.0,4.0,80.0
+230216,MCLAREN PORT HURON,MI,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,medium,234.0,231.0,325.0,,1.0,80.0
+341311,CHATHAM HOSPITAL INC,NC,Critical Access Hospitals,Voluntary non-profit - Private,Yes,4,not available,234.0,222.0,,526.0,,80.0
+360123,UH ST JOHN MEDICAL CENTER,OH,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,234.0,231.0,300.0,,1.0,80.0
+390057,ST LUKE'S HOSPITAL - GRAND VIEW CAMPUS,PA,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4,medium,234.0,229.0,480.0,,2.0,80.0
+390102,UPMC ST MARGARET,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,234.0,233.0,304.0,218.0,1.0,80.0
+410010,WOMEN & INFANTS HOSPITAL OF RHODE ISLAND,RI,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,234.0,234.0,401.0,286.0,3.0,80.0
+490032,MEDICAL COLLEGE OF VIRGINIA HOSPITALS,VA,Acute Care Hospitals,Government - Hospital District or Authority,Yes,4,very high,234.0,234.0,233.0,,1.0,80.0
+140242,NORTHWESTERN MEDICINE CENTRAL DUPAGE HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,233.0,230.0,310.0,,4.0,79.0
+210032,UNION HOSPITAL OF CECIL COUNTY,MD,Acute Care Hospitals,Voluntary non-profit - Private,No,4,medium,233.0,228.0,426.0,323.0,6.0,79.0
+220049,MARLBOROUGH HOSPITAL,MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,medium,233.0,226.0,404.0,428.0,5.0,79.0
+340142,CARTERET GENERAL HOSPITAL,NC,Acute Care Hospitals,Proprietary,Yes,2,high,233.0,225.0,1212.0,266.0,2.0,79.0
+390339,PENN STATE HEALTH LANCASTER MEDICAL CENTER,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,233.0,231.0,416.0,,4.0,79.0
+410004,ROGER WILLIAMS MEDICAL CENTER,RI,Acute Care Hospitals,Proprietary,Yes,3,medium,233.0,212.0,372.0,395.0,5.0,79.0
+450054,BAYLOR SCOTT & WHITE MEDICAL CENTER - TEMPLE,TX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,233.0,232.0,438.0,,2.0,79.0
+030085,NORTHWEST MEDICAL CENTER,AZ,Acute Care Hospitals,Proprietary,Yes,2,medium,232.0,224.0,579.0,490.0,3.0,78.0
+050272,REDLANDS COMMUNITY HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,232.0,231.0,288.0,312.0,1.0,78.0
+050309,SUTTER ROSEVILLE MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,232.0,226.0,317.0,510.0,1.0,78.0
+050471,PIH HEALTH GOOD SAMARITAN HOSPITAL,CA,Acute Care Hospitals,Proprietary,No,2,high,232.0,230.0,316.0,,6.0,78.0
+110076,EMORY DECATUR HOSPITAL,GA,Acute Care Hospitals,Voluntary non-profit - Private,No,2,very high,232.0,222.0,296.0,336.0,4.0,78.0
+110161,NORTHSIDE HOSPITAL,GA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,232.0,228.0,331.0,,1.0,78.0
+140233,SAINT ANTHONY MEDICAL CENTER,IL,Acute Care Hospitals,Voluntary non-profit - Church,Yes,2,high,232.0,223.0,350.0,294.0,2.0,78.0
+150024,ESKENAZI HEALTH,IN,Acute Care Hospitals,Government - Local,Yes,3,very high,232.0,232.0,239.0,,4.0,78.0
+170049,UNIVERSITY OF KANSAS HEALTH SYSTEM OLATHE HOSPITAL,KS,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,232.0,232.0,266.0,,4.0,78.0
+220065,BAYSTATE NOBLE HOSPITAL,MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,medium,232.0,215.0,300.0,440.0,6.0,78.0
+260048,TRUMAN MEDICAL CENTER HOSPITAL HILL,MO,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,232.0,224.0,332.0,,2.0,78.0
+260138,ST LUKES HOSPITAL OF KANSAS CITY,MO,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,high,232.0,226.0,448.0,,8.0,78.0
+310011,CAPE REGIONAL MEDICAL CENTER INC,NJ,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,232.0,222.0,338.0,648.0,2.0,78.0
+330394,"UNITED HEALTH SERVICES HOSPITALS, INC",NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,232.0,222.0,394.0,,3.0,78.0
+360084,AULTMAN HOSPITAL,OH,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4,high,232.0,220.0,444.0,307.0,3.0,78.0
+390096,PENN STATE HEALTH ST. JOSEPH,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,232.0,232.0,218.0,,2.0,78.0
+410011,LANDMARK MEDICAL CENTER,RI,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,medium,232.0,225.0,490.0,,3.0,78.0
+450137,BAYLOR SCOTT AND WHITE ALL SAINTS MEDICAL CENTER,TX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,232.0,233.0,208.0,,1.0,78.0
+030093,BANNER DEL E. WEBB MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,231.0,230.0,289.0,202.0,1.0,77.0
+070005,WATERBURY HOSPITAL,CT,Acute Care Hospitals,Proprietary,Yes,2,medium,231.0,227.0,504.0,,3.0,77.0
+110091,PIEDMONT ROCKDALE HOSPITAL,GA,Acute Care Hospitals,Proprietary,No,3,high,231.0,222.0,1038.0,,1.0,77.0
+230197,ASCENSION GENESYS HOSPITAL,MI,Acute Care Hospitals,Voluntary non-profit - Church,Yes,3,not available,231.0,231.0,322.0,,,77.0
+330005,KALEIDA HEALTH,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,231.0,230.0,,,2.0,77.0
+340143,CATAWBA VALLEY MEDICAL CENTER,NC,Acute Care Hospitals,Voluntary non-profit - Other,Yes,2,high,231.0,228.0,303.0,,5.0,77.0
+390044,READING HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,231.0,230.0,306.0,,2.0,77.0
+420078,PRISMA HEALTH GREENVILLE MEMORIAL HOSPITAL,SC,Acute Care Hospitals,Voluntary non-profit - Private,No,4,very high,231.0,234.0,158.0,,1.0,77.0
+450051,METHODIST DALLAS MEDICAL CENTER,TX,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,very high,231.0,229.0,277.0,,2.0,77.0
+010055,FLOWERS HOSPITAL,AL,Acute Care Hospitals,Proprietary,Yes,2,high,230.0,227.0,,,5.0,76.0
+050444,MERCY MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,230.0,224.0,596.0,412.0,2.0,76.0
+090003,HOWARD UNIVERSITY HOSPITAL CORP,DC,Acute Care Hospitals,Voluntary non-profit - Other,No,1,high,230.0,222.0,265.0,,2.0,76.0
+100125,HOMESTEAD HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,230.0,228.0,,381.0,2.0,76.0
+140208,ADVOCATE CHRIST HOSPITAL & MEDICAL CENTER,IL,Acute Care Hospitals,Voluntary non-profit - Church,Yes,3,very high,230.0,229.0,400.0,,6.0,76.0
+140213,SILVER CROSS HOSPITAL  AND MEDICAL CENTERS,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,230.0,224.0,651.0,,4.0,76.0
+220030,BAYSTATE WING HOSPITAL,MA,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4,medium,230.0,214.0,406.0,412.0,3.0,76.0
+220052,SIGNATURE HEALTHCARE BROCKTON HOSPITAL,MA,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,medium,230.0,208.0,614.0,,2.0,76.0
+310054,HACKENSACK MERIDIAN MOUNTAINSIDE MEDICAL,NJ,Acute Care Hospitals,Proprietary,Yes,4,high,230.0,229.0,385.0,,2.0,76.0
+330393,SUNY/STONY BROOK UNIVERSITY HOSPITAL,NY,Acute Care Hospitals,Government - State,Yes,5,very high,230.0,223.0,612.0,,1.0,76.0
+340028,CAPE FEAR VALLEY MEDICAL CENTER,NC,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,230.0,216.0,852.0,,1.0,76.0
+360348,DUBLIN METHODIST HOSPITAL,OH,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,230.0,229.0,260.0,,3.0,76.0
+370091,"SAINT FRANCIS HOSPITAL, INC",OK,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,230.0,230.0,274.0,,3.0,76.0
+440049,METHODIST HOSPITALS OF MEMPHIS,TN,Acute Care Hospitals,Voluntary non-profit - Church,Yes,3,very high,230.0,228.0,351.0,,16.0,76.0
+500054,PROV SACRED HRT MED CTR & CHILDS HOSP.,WA,Acute Care Hospitals,Voluntary non-profit - Church,Yes,3,very high,230.0,216.0,486.0,,6.0,76.0
+510058,CAMDEN CLARK MEDICAL CENTER,WV,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,230.0,226.0,332.0,,3.0,76.0
+040062,MERCY HOSPITAL FORT SMITH,AR,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,229.0,228.0,284.0,,3.0,75.0
+050084,ST JOSEPH'S MEDICAL CENTER OF STOCKTON,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,229.0,225.0,302.0,,2.0,75.0
+050300,PROVIDENCE ST MARY MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,229.0,228.0,212.0,372.0,1.0,75.0
+070017,MIDSTATE MEDICAL CENTER,CT,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,229.0,220.0,350.0,286.0,1.0,75.0
+240047,ST LUKES HOSPITAL,MN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,229.0,227.0,316.0,,4.0,75.0
+310012,VALLEY HOSPITAL,NJ,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,229.0,227.0,338.0,,1.0,75.0
+390233,UPMC HANOVER,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,229.0,225.0,828.0,278.0,1.0,75.0
+450042,ASCENSION PROVIDENCE,TX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,not available,229.0,223.0,511.0,,,75.0
+670060,BAYLOR SCOTT AND WHITE MEDICAL CENTER SUNNYVALE,TX,Acute Care Hospitals,Proprietary,Yes,2,medium,229.0,228.0,,,2.0,75.0
+030061,BANNER BOSWELL MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,high,228.0,224.0,285.0,445.0,0.0,74.0
+070028,ST VINCENT'S MEDICAL CENTER,CT,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,228.0,228.0,200.0,,2.0,74.0
+150169,COMMUNITY HOSPITAL NORTH,IN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,228.0,221.0,469.0,414.0,4.0,74.0
+190125,FMOL HEALTH ST FRANCIS,LA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,228.0,226.0,440.0,,1.0,74.0
+210022,SUBURBAN HOSPITAL,MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,228.0,224.0,337.0,,1.0,74.0
+330014,JAMAICA HOSPITAL MEDICAL CENTER,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,very high,228.0,227.0,292.0,,3.0,74.0
+330101,NEW YORK-PRESBYTERIAN HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,228.0,224.0,319.0,,1.0,74.0
+330233,BROOKDALE HOSPITAL MEDICAL CENTER,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,very high,228.0,228.0,257.0,,3.0,74.0
+330286,GOOD SAMARITAN HOSPITAL MEDICAL CENTER,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,228.0,224.0,396.0,,1.0,74.0
+380009,OHSU HOSPITAL AND CLINICS,OR,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,high,228.0,224.0,242.0,,4.0,74.0
+140008,LOYOLA GOTTLIEB MEMORIAL HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,227.0,222.0,322.0,,2.0,73.0
+140135,DECATUR MEMORIAL HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,high,227.0,220.0,266.0,333.0,8.0,73.0
+220171,"LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,227.0,226.0,424.0,,5.0,73.0
+260162,BARNES-JEWISH WEST COUNTY HOSPITAL,MO,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,low,227.0,220.0,,490.0,4.0,73.0
+260200,SSM ST JOSEPH HOSPITAL WEST,MO,Acute Care Hospitals,Voluntary non-profit - Church,Yes,3,medium,227.0,215.0,364.0,314.0,4.0,73.0
+330140,ST JOSEPH'S HOSPITAL HEALTH CENTER,NY,Acute Care Hospitals,Voluntary non-profit - Church,Yes,2,high,227.0,226.0,212.0,,3.0,73.0
+390028,UPMC MERCY,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,227.0,225.0,244.0,,1.0,73.0
+390039,UPMC SOMERSET,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,low,227.0,220.0,239.0,428.0,2.0,73.0
+390146,WARREN GENERAL HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,low,227.0,194.0,222.0,542.0,3.0,73.0
+420018,PRISMA HEALTH RICHLAND HOSPITAL,SC,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,227.0,225.0,348.0,,1.0,73.0
+500031,GRAYS HARBOR COMMUNITY HOSPITAL,WA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,227.0,216.0,558.0,466.0,2.0,73.0
+050112,SANTA MONICA - UCLA MED CTR & ORTHOPAEDIC HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,high,226.0,224.0,442.0,,1.0,72.0
+070003,DAY KIMBALL HOSPITAL,CT,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,low,226.0,221.0,492.0,366.0,1.0,72.0
+160067,MERCYONE WATERLOO MEDICAL CENTER,IA,Acute Care Hospitals,Voluntary non-profit - Church,Yes,4,low,226.0,223.0,230.0,334.0,10.0,72.0
+220108,BETH ISRAEL DEACONESS HOSPITAL - MILTON,MA,Acute Care Hospitals,Government - Federal,Yes,4,medium,226.0,218.0,664.0,350.0,4.0,72.0
+250078,FORREST GENERAL HOSPITAL,MS,Acute Care Hospitals,Government - Local,Yes,2,very high,226.0,224.0,,,1.0,72.0
+260001,MERCY HOSPITAL JOPLIN,MO,Acute Care Hospitals,Voluntary non-profit - Church,Yes,1,high,226.0,226.0,192.0,,6.0,72.0
+320090,PRESBYTERIAN SANTA FE MEDICAL CENTER,NM,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,medium,226.0,225.0,254.0,,4.0,72.0
+340091,"MOSES H. CONE MEMORIAL HOSPITAL, THE",NC,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,226.0,224.0,,,3.0,72.0
+360010,UNION HOSPITAL,OH,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,medium,226.0,216.0,266.0,330.0,2.0,72.0
+490088,CENTRA BEDFORD MEMORIAL HOSPITAL,VA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,medium,226.0,216.0,356.0,483.0,5.0,72.0
+010023,BAPTIST MEDICAL CENTER SOUTH,AL,Acute Care Hospitals,Government - Hospital District or Authority,Yes,2,high,225.0,220.0,280.0,,2.0,71.0
+050770,LOMA LINDA UNIVERSITY MEDICAL CENTER-MURRIETA,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,225.0,224.0,198.0,,1.0,71.0
+110018,PIEDMONT NEWTON HOSPITAL,GA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,225.0,217.0,431.0,,1.0,71.0
+150051,INDIANA UNIVERSITY HEALTH BLOOMINGTON HOSPITAL,IN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,225.0,223.0,265.0,,3.0,71.0
+160101,BROADLAWNS MEDICAL CENTER,IA,Acute Care Hospitals,Government - Local,Yes,3,medium,225.0,204.0,302.0,540.0,9.0,71.0
+220019,UMASS MEMORIAL HEALTH - HARRINGTON HOSPITAL,MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,225.0,209.0,492.0,341.0,3.0,71.0
+260104,SSM HEALTH DEPAUL HOSPITAL ST LOUIS,MO,Acute Care Hospitals,Voluntary non-profit - Church,Yes,4,high,225.0,213.0,384.0,,2.0,71.0
+310010,UNIVERSITY MEDICAL CENTER OF PRINCETON AT PLAINSBORO,NJ,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,225.0,221.0,445.0,,1.0,71.0
+370001,HILLCREST MEDICAL CENTER,OK,Acute Care Hospitals,Proprietary,Yes,3,high,225.0,223.0,269.0,,5.0,71.0
+030130,BANNER IRONWOOD MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,224.0,221.0,356.0,296.0,3.0,70.0
+040004,WASHINGTON REGIONAL MEDICAL CENTER,AR,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,224.0,222.0,281.0,,1.0,70.0
+110044,PHOEBE SUMTER MEDICAL CENTER,GA,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,medium,224.0,216.0,428.0,522.0,5.0,70.0
+140082,LOUIS A WEISS MEMORIAL HOSPITAL,IL,Acute Care Hospitals,Proprietary,Yes,1,low,224.0,210.0,298.0,,5.0,70.0
+241316,BIGFORK VALLEY HOSPITAL,MN,Critical Access Hospitals,Government - Hospital District or Authority,Yes,,not available,224.0,125.0,550.0,362.0,,70.0
+300034,CATHOLIC MEDICAL CENTER,NH,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,224.0,221.0,528.0,,1.0,70.0
+330074,F F THOMPSON HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,medium,224.0,222.0,322.0,248.0,2.0,70.0
+330107,PECONIC BAY MEDICAL CENTER,NY,Acute Care Hospitals,Voluntary non-profit - Other,Yes,2,high,224.0,218.0,485.0,273.0,1.0,70.0
+330127,JACOBI MEDICAL CENTER,NY,Acute Care Hospitals,Government - Local,Yes,2,very high,224.0,220.0,,,2.0,70.0
+330198,MOUNT SINAI SOUTH NASSAU,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,224.0,219.0,349.0,,2.0,70.0
+340131,CAROLINA EAST MEDICAL CENTER,NC,Acute Care Hospitals,Government - Hospital District or Authority,Yes,4,very high,224.0,216.0,427.0,,2.0,70.0
+390204,NAZARETH HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,224.0,222.0,372.0,,4.0,70.0
+520098,UNIVERSITY OF WI  HOSPITALS & CLINICS AUTHORITY,WI,Acute Care Hospitals,Government - Hospital District or Authority,Yes,5,very high,224.0,214.0,385.0,421.0,1.0,70.0
+050581,UCI HEALTH-LAKEWOOD,CA,Acute Care Hospitals,Proprietary,Yes,2,medium,223.0,222.0,,283.0,1.0,69.0
+070027,MANCHESTER MEMORIAL HOSPITAL,CT,Acute Care Hospitals,Proprietary,Yes,4,medium,223.0,223.0,262.0,,3.0,69.0
+100012,LEE MEMORIAL HOSPITAL,FL,Acute Care Hospitals,Government - Hospital District or Authority,Yes,5,very high,223.0,222.0,257.0,,1.0,69.0
+140091,CARLE FOUNDATION HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,223.0,214.0,418.0,,2.0,69.0
+250167,METHODIST HEALTHCARE - OLIVE BRANCH HOSPITAL,MS,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,223.0,222.0,,,4.0,69.0
+310040,CAREPOINT HEALTH-HOBOKEN UNIVERSITY MEDICAL CENTER,NJ,Acute Care Hospitals,Voluntary non-profit - Church,No,1,medium,223.0,222.0,236.0,,3.0,69.0
+330011,"OUR LADY OF LOURDES MEMORIAL HOSPITAL, INC",NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,low,223.0,219.0,,,3.0,69.0
+330250,THE UNIVERSITY OF VERMONT HEALTH NETWORK  - CHAMPL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,223.0,223.0,398.0,,2.0,69.0
+340015,NOVANT HEALTH ROWAN MEDICAL CENTER,NC,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,223.0,205.0,918.0,,1.0,69.0
+360078,UNIVERSITY HOSPITALS PORTAGE MEDICAL CENTER,OH,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,223.0,218.0,322.0,370.0,2.0,69.0
+390153,PAOLI HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,high,223.0,220.0,498.0,,0.0,69.0
+390156,MERCY CATHOLIC MEDICAL CENTER- MERCY FITZGERALD,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,223.0,223.0,,,1.0,69.0
+050116,NORTHRIDGE HOSPITAL MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,222.0,215.0,359.0,,1.0,68.0
+050329,CORONA REGIONAL MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,Yes,3,high,222.0,218.0,407.0,,2.0,68.0
+050390,HEMET GLOBAL MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,Yes,1,high,222.0,213.0,305.0,380.0,2.0,68.0
+100244,CAPE CORAL HOSPITAL,FL,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,very high,222.0,221.0,253.0,,1.0,68.0
+140228,UW HEALTH,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,222.0,217.0,299.0,,2.0,68.0
+190065,BATON ROUGE GENERAL MEDICAL CENTER,LA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,222.0,210.0,289.0,372.0,1.0,68.0
+230066,TRINITY HEALTH MUSKEGON HOSPITAL,MI,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,222.0,220.0,262.0,,3.0,68.0
+260020,MERCY HOSPITAL ST LOUIS,MO,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,222.0,220.0,233.0,,4.0,68.0
+310111,CENTRASTATE MEDICAL CENTER,NJ,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,222.0,219.0,335.0,,2.0,68.0
+330182,ST FRANCIS HOSPITAL - THE HEART CENTER,NY,Acute Care Hospitals,Voluntary non-profit - Church,Yes,5,medium,222.0,224.0,,,0.0,68.0
+330193,FLUSHING HOSPITAL MEDICAL CENTER,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,medium,222.0,220.0,239.0,,2.0,68.0
+360354,WEST CHESTER HOSPITAL,OH,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,222.0,219.0,330.0,,0.0,68.0
+420073,LEXINGTON MEDICAL CENTER,SC,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,222.0,223.0,171.0,,10.0,68.0
+500015,MULTICARE AUBURN MEDICAL CENTER,WA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,222.0,217.0,279.0,,3.0,68.0
+520103,COMMUNITY MEMORIAL HOSPITAL,WI,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,222.0,219.0,,394.0,2.0,68.0
+670082,BAYLOR SCOTT AND WHITE  MEDICAL CENTER  MCKINNEY,TX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,222.0,218.0,,,1.0,68.0
+100284,KERALTY HOSPITAL,FL,Acute Care Hospitals,Proprietary,Yes,2,low,221.0,210.0,384.0,333.0,0.0,67.0
+140130,NORTHWESTERN LAKE FOREST HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Other,Yes,5,very high,221.0,221.0,204.0,,3.0,67.0
+180013,THE MEDICAL CENTER (BOWLING GREEN),KY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,221.0,215.0,305.0,304.0,3.0,67.0
+180038,OWENSBORO HEALTH REGIONAL HOSPITAL,KY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,221.0,208.0,227.0,420.0,4.0,67.0
+220031,BOSTON MEDICAL CENTER,MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,221.0,227.0,129.0,,7.0,67.0
+220175,METROWEST MEDICAL CENTER,MA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,medium,221.0,205.0,437.0,388.0,3.0,67.0
+240002,ESSENTIA HEALTH ST MARY'S MEDICAL CENTER,MN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,221.0,201.0,494.0,471.0,3.0,67.0
+260141,UNIVERSITY OF MISSOURI HEALTH CARE,MO,Acute Care Hospitals,Government - State,Yes,3,very high,221.0,222.0,182.0,,2.0,67.0
+330027,NASSAU UNIVERSITY MEDICAL CENTER,NY,Acute Care Hospitals,Government - State,Yes,1,very high,221.0,164.0,303.0,467.0,3.0,67.0
+330090,ARNOT OGDEN MEDICAL CENTER,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,medium,221.0,212.0,331.0,,3.0,67.0
+330203,CROUSE HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,221.0,220.0,230.0,,0.0,67.0
+390067,UPMC PINNACLE HOSPITALS,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,221.0,215.0,324.0,,1.0,67.0
+390139,BRYN MAWR HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,high,221.0,214.0,392.0,,1.0,67.0
+420067,BEAUFORT COUNTY MEMORIAL HOSPITAL,SC,Acute Care Hospitals,Government - Local,Yes,4,high,221.0,221.0,339.0,216.0,3.0,67.0
+420109,MCLEOD HEALTH CLARENDON,SC,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,221.0,212.0,276.0,450.0,8.0,67.0
+450424,HOUSTON METHODIST BAYTOWN HOSPITAL,TX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,221.0,216.0,399.0,,2.0,67.0
+030119,MERCY GILBERT MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Church,Yes,5,high,220.0,215.0,318.0,,2.0,66.0
+050289,AHMC SETON MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,Yes,1,low,220.0,210.0,242.0,,2.0,66.0
+050517,VICTOR VALLEY GLOBAL MEDICAL CENTER,CA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,medium,220.0,213.0,285.0,,2.0,66.0
+100289,CLEVELAND CLINIC HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,high,220.0,219.0,243.0,,0.0,66.0
+140209,CARLE HEALTH METHODIST HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,medium,220.0,213.0,294.0,,6.0,66.0
+150088,ASCENSION ST VINCENT ANDERSON,IN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,not available,220.0,215.0,244.0,477.0,,66.0
+170086,STORMONT VAIL HOSPITAL,KS,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,220.0,221.0,193.0,,4.0,66.0
+210024,MEDSTAR UNION MEMORIAL HOSPITAL,MD,Acute Care Hospitals,Voluntary non-profit - Other,Yes,5,high,220.0,218.0,931.0,,2.0,66.0
+241363,STEVENS COMMUNITY MEDICAL CENTER INC,MN,Critical Access Hospitals,Voluntary non-profit - Private,Yes,,low,220.0,166.0,343.0,219.0,0.0,66.0
+260180,CHRISTIAN HOSPITAL NORTHEAST,MO,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,220.0,217.0,,,5.0,66.0
+310057,VIRTUA MOUNT HOLLY HOSPITAL,NJ,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,220.0,198.0,288.0,1641.0,4.0,66.0
+330158,GOOD SAMARITAN HOSPITAL OF SUFFERN,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,220.0,215.0,349.0,,1.0,66.0
+330235,AUBURN  COMMUNITY  HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,medium,220.0,224.0,126.0,274.0,3.0,66.0
+340141,NOVANT HEALTH NEW HANOVER REGIONAL MEDICAL CENTER,NC,Acute Care Hospitals,Government - Local,Yes,3,very high,220.0,204.0,351.0,,2.0,66.0
+340151,ECU HEALTH NORTH HOSPITAL,NC,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,medium,220.0,212.0,378.0,502.0,3.0,66.0
+390097,HOLY REDEEMER HOSPITAL AND MEDICAL CENTER,PA,Acute Care Hospitals,Voluntary non-profit - Church,Yes,3,medium,220.0,195.0,,284.0,4.0,66.0
+440011,BLOUNT MEMORIAL HOSPITAL,TN,Acute Care Hospitals,Government - Local,Yes,2,high,220.0,216.0,316.0,,2.0,66.0
+460010,INTERMOUNTAIN MEDICAL CENTER,UT,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,220.0,218.0,237.0,341.0,1.0,66.0
+490005,WINCHESTER MEDICAL CENTER,VA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,220.0,218.0,,,3.0,66.0
+501328,MID VALLEY HOSPITAL & CLINIC,WA,Critical Access Hospitals,Government - Hospital District or Authority,Yes,,not available,220.0,202.0,322.0,349.0,,66.0
+510007,ST MARYS MEDICAL CENTER,WV,Acute Care Hospitals,Voluntary non-profit - Church,Yes,3,very high,220.0,209.0,418.0,,1.0,66.0
+510055,"CABELL HUNTINGTON HOSPITAL, INC",WV,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,220.0,223.0,186.0,,2.0,66.0
+010033,UNIVERSITY OF ALABAMA HOSPITAL,AL,Acute Care Hospitals,Government - State,Yes,2,very high,219.0,211.0,399.0,544.0,2.0,65.0
+050775,TEMECULA VALLEY HOSPITAL,CA,Acute Care Hospitals,Proprietary,Yes,4,high,219.0,215.0,314.0,,0.0,65.0
+140064,ST MARY MEDICAL CENTER,IL,Acute Care Hospitals,Voluntary non-profit - Church,Yes,2,medium,219.0,192.0,288.0,410.0,4.0,65.0
+140223,ADVOCATE LUTHERAN GENERAL HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Church,Yes,4,very high,219.0,216.0,295.0,,2.0,65.0
+200050,NORTHERN LIGHT MAINE COAST HOSPITAL,ME,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,low,219.0,206.0,524.0,408.0,5.0,65.0
+210033,CARROLL HOSPITAL CENTER,MD,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,219.0,214.0,324.0,494.0,0.0,65.0
+210034,MEDSTAR HARBOR HOSPITAL,MD,Acute Care Hospitals,Voluntary non-profit - Private,No,4,high,219.0,212.0,287.0,,4.0,65.0
+260040,COX MEDICAL CENTERS,MO,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,219.0,219.0,271.0,,3.0,65.0
+260094,COX MEDICAL CENTER BRANSON,MO,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,219.0,218.0,175.0,439.0,3.0,65.0
+290008,NORTHEASTERN NEVADA REGIONAL HOSPITAL,NV,Acute Care Hospitals,Proprietary,Yes,3,low,219.0,207.0,362.0,412.0,3.0,65.0
+300019,CHESHIRE MEDICAL CENTER,NH,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,219.0,214.0,432.0,,3.0,65.0
+310019,ST JOSEPH'S UNIVERSITY MEDICAL CENTER INC,NJ,Acute Care Hospitals,Voluntary non-profit - Church,No,3,very high,219.0,217.0,380.0,,5.0,65.0
+310086,JEFFERSON STRATFORD HOSPITAL,NJ,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,219.0,215.0,243.0,,1.0,65.0
+330208,ST JOHN'S RIVERSIDE HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,219.0,218.0,,314.0,1.0,65.0
+330221,WYCKOFF HEIGHTS MEDICAL CENTER,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,219.0,218.0,244.0,,2.0,65.0
+390002,UPMC MCKEESPORT HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,219.0,205.0,222.0,438.0,4.0,65.0
+390009,SAINT VINCENT HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,219.0,219.0,167.0,,1.0,65.0
+510086,WELCH COMMUNITY HOSPITAL,WV,Acute Care Hospitals,Government - State,Yes,,not available,219.0,199.0,,350.0,,65.0
+050091,COMMUNITY HOSPITAL OF HUNTINGTON PARK,CA,Acute Care Hospitals,Proprietary,Yes,1,medium,218.0,209.0,546.0,728.0,4.0,64.0
+050291,SUTTER SANTA ROSA REGIONAL HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Other,Yes,5,high,218.0,212.0,302.0,,2.0,64.0
+100050,LARKIN COMMUNITY HOSPITAL PALM SPRINGS CAMPUS,FL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,low,218.0,198.0,234.0,254.0,1.0,64.0
+110089,"COFFEE REGIONAL MEDICAL CENTER, INC",GA,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,medium,218.0,215.0,287.0,,3.0,64.0
+150162,FRANCISCAN HEALTH INDIANAPOLIS,IN,Acute Care Hospitals,Voluntary non-profit - Church,Yes,4,very high,218.0,212.0,432.0,,2.0,64.0
+180067,UNIVERSITY OF KENTUCKY HOSPITAL,KY,Acute Care Hospitals,Government - State,Yes,4,very high,218.0,218.0,212.0,,1.0,64.0
+190019,CHRISTUS ST FRANCES CABRINI HOSPITAL,LA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,218.0,215.0,336.0,,1.0,64.0
+190060,LAKE CHARLES MEMORIAL HOSPITAL,LA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,218.0,210.0,398.0,,2.0,64.0
+230092,HENRY FORD ALLEGIANCE HEALTH,MI,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,very high,218.0,213.0,307.0,,1.0,64.0
+240036,CENTRACARE - ST. CLOUD HOSPITAL,MN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,218.0,217.0,257.0,,6.0,64.0
+300020,SOUTHERN NH MEDICAL CENTER,NH,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,high,218.0,218.0,192.0,,5.0,64.0
+330044,WYNN HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,very high,218.0,211.0,352.0,,3.0,64.0
+380002,ASANTE THREE RIVERS MEDICAL CENTER,OR,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,high,218.0,203.0,234.0,272.0,5.0,64.0
+450869,DOCTORS HOSPTAL AT RENAISSANCE,TX,Acute Care Hospitals,Physician,Yes,3,high,218.0,219.0,,196.0,1.0,64.0
+500108,ST JOSEPH MEDICAL CENTER,WA,Acute Care Hospitals,Voluntary non-profit - Church,Yes,3,high,218.0,211.0,384.0,,1.0,64.0
+200033,NORTHERN LIGHT EASTERN MAINE MEDICAL CENTER,ME,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,medium,217.0,219.0,115.0,477.0,1.0,63.0
+300023,EXETER HOSPITAL INC,NH,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,217.0,206.0,1103.0,,3.0,63.0
+310070,SAINT PETER'S UNIVERSITY HOSPITAL,NJ,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,217.0,208.0,748.0,,3.0,63.0
+390125,WAYNE MEMORIAL HOSPITAL,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,medium,217.0,212.0,,257.0,2.0,63.0
+440009,CUMBERLAND MEDICAL CENTER,TN,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,217.0,204.0,860.0,447.0,5.0,63.0
+450231,BSA HOSPITAL,TX,Acute Care Hospitals,Proprietary,Yes,2,very high,217.0,215.0,,,1.0,63.0
+490042,CARILION NEW RIVER VALLEY MEDICAL CENTER,VA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,217.0,211.0,436.0,464.0,1.0,63.0
+500041,PEACEHEALTH ST JOHN MEDICAL CENTER,WA,Acute Care Hospitals,Voluntary non-profit - Church,Yes,4,high,217.0,214.0,286.0,,2.0,63.0
+670122,HOUSTON METHODIST THE WOODLANDS HOSPITAL,TX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,very high,217.0,214.0,,,0.0,63.0
+050055,CALIFORNIA PACIFIC MEDICAL CENTER - MISSION BERNAL,CA,Acute Care Hospitals,Voluntary non-profit - Church,Yes,4,medium,216.0,204.0,342.0,,4.0,62.0
+050167,SAN JOAQUIN GENERAL HOSPITAL,CA,Acute Care Hospitals,Government - Local,Yes,2,high,216.0,213.0,297.0,435.0,4.0,62.0
+050464,DOCTORS MEDICAL CENTER,CA,Acute Care Hospitals,Proprietary,Yes,1,very high,216.0,221.0,164.0,,3.0,62.0
+060064,AdventHealth Porter,CO,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,low,216.0,199.0,477.0,,0.0,62.0
+100019,HOLMES REGIONAL MEDICAL CENTER,FL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,216.0,214.0,232.0,,3.0,62.0
+100105,CLEVELAND CLINIC INDIAN RIVER HOSPITAL,FL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,216.0,216.0,154.0,,2.0,62.0
+140189,SARAH BUSH LINCOLN HEALTH CENTER,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,216.0,210.0,314.0,258.0,2.0,62.0
+140202,ADVOCATE CONDELL MEDICAL CENTER,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,216.0,214.0,388.0,,2.0,62.0
+150017,LUTHERAN HOSPITAL OF INDIANA,IN,Acute Care Hospitals,Proprietary,Yes,3,medium,216.0,215.0,,,2.0,62.0
+200008,NORTHERN LIGHT MERCY HOSPITAL,ME,Acute Care Hospitals,Voluntary non-profit - Church,Yes,4,medium,216.0,208.0,342.0,,3.0,62.0
+200009,MAINEHEALTH MAINE MEDICAL CENTER,ME,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,216.0,207.0,546.0,,3.0,62.0
+230053,HENRY FORD HEALTH HOSPITAL,MI,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,216.0,208.0,267.0,364.0,5.0,62.0
+270051,LOGAN HEALTH MEDICAL CENTER,MT,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,216.0,214.0,246.0,,2.0,62.0
+310044,CAPITAL HEALTH MEDICAL CENTER - HOPEWELL,NJ,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,216.0,209.0,,384.0,2.0,62.0
+310073,JERSEY SHORE UNIVERSITY MEDICAL CENTER,NJ,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,216.0,210.0,911.0,163.0,2.0,62.0
+320009,LOVELACE MEDICAL CENTER,NM,Acute Care Hospitals,Proprietary,Yes,2,medium,216.0,212.0,334.0,,2.0,62.0
+330194,MAIMONIDES MEDICAL CENTER,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,216.0,208.0,372.0,,1.0,62.0
+330277,CORNING HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,216.0,210.0,273.0,540.0,2.0,62.0
+340123,RANDOLPH HOSPITAL,NC,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,216.0,216.0,196.0,,6.0,62.0
+341315,CAPE FEAR VALLEY-BLADEN COUNTY HOSPITAL,NC,Critical Access Hospitals,Voluntary non-profit - Private,Yes,,low,216.0,193.0,752.0,638.0,5.0,62.0
+380061,PROVIDENCE PORTLAND MEDICAL CENTER,OR,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,216.0,215.0,284.0,,4.0,62.0
+390058,UPMC CARLISLE,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,216.0,211.0,350.0,307.0,0.0,62.0
+390137,WILKES-BARRE GENERAL HOSPITAL,PA,Acute Care Hospitals,Proprietary,Yes,2,medium,216.0,209.0,575.0,,2.0,62.0
+490115,TWIN COUNTY REGIONAL HOSPITAL,VA,Acute Care Hospitals,Proprietary,Yes,2,low,216.0,208.0,238.0,521.0,4.0,62.0
+510006,"UNITED HOSPITAL CENTER, INC",WV,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,216.0,212.0,384.0,263.0,3.0,62.0
+520063,ST JOSEPHS COMMUNITY HOSPITAL WEST BEND,WI,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,216.0,211.0,366.0,464.0,2.0,62.0
+010087,USA HEALTH UNIVERSITY HOSPITAL,AL,Acute Care Hospitals,Government - State,Yes,2,medium,215.0,211.0,,,2.0,61.0
+030023,FLAGSTAFF MEDICAL CENTER,AZ,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,215.0,214.0,264.0,,3.0,61.0
+050069,PROVIDENCE ST. JOSEPH HOSPITAL,CA,Acute Care Hospitals,Voluntary non-profit - Church,Yes,4,very high,215.0,214.0,274.0,,2.0,61.0
+060011,DENVER HEALTH & HOSPITAL AUTHORITY,CO,Acute Care Hospitals,Government - State,Yes,3,very high,215.0,208.0,310.0,,4.0,61.0
+110229,"PIEDMONT NEWNAN HOSPITAL, INC",GA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,very high,215.0,204.0,484.0,,1.0,61.0
+230117,BORGESS MEDICAL CENTER,MI,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,not available,215.0,212.0,301.0,,,61.0
+330332,CHSLI ST JOSEPH HOSPITAL,NY,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,medium,215.0,214.0,343.0,276.0,1.0,61.0
+340003,NORTHERN REGIONAL HOSPITAL,NC,Acute Care Hospitals,Government - Hospital District or Authority,Yes,4,medium,215.0,192.0,,420.0,2.0,61.0
+341324,"THE OUTER BANKS HOSPITAL, INC",NC,Critical Access Hospitals,Voluntary non-profit - Private,Yes,4,medium,215.0,208.0,246.0,360.0,2.0,61.0
+360211,TRINITY MEDICAL CTR EAST &TRINITY MEDICAL CTR WEST,OH,Acute Care Hospitals,Voluntary non-profit - Other,Yes,2,medium,215.0,212.0,,,2.0,61.0
+670075,ST LUKE'S HOSPITAL AT THE VINTAGE,TX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,medium,215.0,209.0,383.0,,0.0,61.0
+010001,SOUTHEAST HEALTH MEDICAL CENTER,AL,Acute Care Hospitals,Government - Hospital District or Authority,Yes,4,very high,214.0,212.0,,,3.0,60.0
+130028,PORTNEUF MEDICAL CENTER,ID,Acute Care Hospitals,Proprietary,Yes,4,medium,214.0,212.0,302.0,,4.0,60.0
+140054,MACNEAL  HOSPITAL,IL,Acute Care Hospitals,Proprietary,Yes,3,high,214.0,211.0,422.0,258.0,0.0,60.0
+140211,NORTHWESTERN MEDICINE DELNOR COMMUNITY HOSPITAL,IL,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,high,214.0,212.0,258.0,,2.0,60.0
+230030,MYMICHIGAN MEDICAL CENTER ALMA,MI,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,low,214.0,200.0,398.0,362.0,4.0,60.0
+310025,CAREPOINT HEALTH - BAYONNE MEDICAL CENTER,NJ,Acute Care Hospitals,Voluntary non-profit - Private,No,1,low,214.0,206.0,306.0,293.0,2.0,60.0
+340071,BETSY JOHNSON REGIONAL HOSPITAL,NC,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,214.0,210.0,285.0,,5.0,60.0
+360064,MH ST ELIZABETH YOUNGSTOWN HOSPITAL,OH,Acute Care Hospitals,Voluntary non-profit - Church,Yes,3,very high,214.0,205.0,566.0,488.0,1.0,60.0
+371318,RURAL WELLNESS FAIRFAX HOSPITAL,OK,Critical Access Hospitals,Proprietary,Yes,,low,214.0,168.0,228.0,223.0,0.0,60.0
+390073,UPMC ALTOONA,PA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,214.0,210.0,213.0,497.0,1.0,60.0
+450372,BAYLOR SCOTT & WHITE MEDICAL CENTER- WAXAHACHIE,TX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,high,214.0,212.0,,,3.0,60.0
+450723,METHODIST CHARLTON MEDICAL CENTER,TX,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,very high,214.0,213.0,,,1.0,60.0
+500024,PROVIDENCE ST PETER HOSPITAL,WA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,high,214.0,212.0,404.0,,1.0,60.0
+500129,TACOMA GENERAL ALLENMORE HOSPITAL,WA,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,very high,214.0,208.0,427.0,,2.0,60.0

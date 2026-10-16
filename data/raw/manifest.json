@@ -1,0 +1,34 @@
+{
+  "retrieved_utc_date": "2026-10-16",
+  "api_root": "https://data.cms.gov/provider-data/api/1/datastore/query",
+  "datasets": {
+    "timely_effective_care": "yv7e-xc69",
+    "hospital_general_information": "xubh-q36u",
+    "timely_effective_care_national": "isrn-hqyy"
+  },
+  "measures": [
+    "EDV",
+    "OP_18a",
+    "OP_18b",
+    "OP_18c",
+    "OP_18d",
+    "OP_22"
+  ],
+  "files": {
+    "cms_ed_measures_2026-10-16.csv": {
+      "rows": 27948,
+      "columns": 16,
+      "sha256": "ca7da89ae1ce781077092191906b38bb63970e2c304dfdbfe4d2a4dc11ead188"
+    },
+    "cms_hospital_general_information_2026-10-16.csv": {
+      "rows": 5419,
+      "columns": 38,
+      "sha256": "76760a638698885cb21cfdd90bffc1bc2f40fd390eb6a1b3867675773320b152"
+    },
+    "cms_ed_national_2026-10-16.csv": {
+      "rows": 5,
+      "columns": 8,
+      "sha256": "d4ab68369dc1e0b1855198a34781f63f6beaf14e04a83db03cef2c1dc6e1ee7c"
+    }
+  }
+}
